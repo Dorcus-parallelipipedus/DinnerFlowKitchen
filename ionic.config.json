@@ -1,0 +1,8 @@
+{
+  "name": "LunchLink",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "bc1a7d20"
+}
